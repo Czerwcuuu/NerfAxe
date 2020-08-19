@@ -1,0 +1,5 @@
+name: NerfAxe
+version: ${project.version}
+main: czerwcu.nerfaxe.NerfAxe
+authors: [Czerwcuu]
+description: It Nerfs Axe on Bedwars 1.9+ pvp
